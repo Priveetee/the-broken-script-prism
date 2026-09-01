@@ -1,0 +1,28 @@
+{
+  "formatVersion": 1,
+  "game": "minecraft",
+  "versionId": "1.21.1-neoforge-21.1.249",
+  "name": "The Broken Script",
+  "summary": "The Broken Script pour Prism Launcher",
+  "files": [
+    {
+      "path": "mods/thebrokenscript-neoforge-2.0.4-hotfix+mc1.21.1-build.3291.jar",
+      "hashes": {
+        "sha1": "2406a7a280298ba3093e398802410b3a72da359a",
+        "sha512": "08a699b23a260b86063fe6ecf8279b184e6f16e5f3e6f826a2aff6aa0757be30b09386110aaa698a3a595865d05d708e2de4db62d49501d6d8db6b8d6e7a2e67"
+      },
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/TocuaDpt/versions/pRPkmb7S/thebrokenscript-neoforge-2.0.4-hotfix%2Bmc1.21.1-build.3291.jar"
+      ],
+      "fileSize": 266853690
+    }
+  ],
+  "dependencies": {
+    "minecraft": "1.21.1",
+    "neoforge": "21.1.249"
+  }
+}
