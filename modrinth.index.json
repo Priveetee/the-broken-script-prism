@@ -19,6 +19,20 @@
         "https://cdn.modrinth.com/data/TocuaDpt/versions/pRPkmb7S/thebrokenscript-neoforge-2.0.4-hotfix%2Bmc1.21.1-build.3291.jar"
       ],
       "fileSize": 266853690
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.23.jar",
+      "hashes": {
+        "sha1": "e089e5e0499b59f870a0bf91d331e33f25feb0da"
+      },
+      "env": {
+        "client": "required",
+        "server": "optional"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/9eGKb6K1/versions/Dv1fH2I2/voicechat-neoforge-1.21.1-2.6.23.jar"
+      ],
+      "fileSize": 4921425
     }
   ],
   "dependencies": {
